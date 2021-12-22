@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adexsol
+- 👋 Hi, I’m Adelina
 - 👀 I’m interested in Crypto/Blockchain
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Solidity
